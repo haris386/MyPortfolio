@@ -13,7 +13,7 @@ const images = [
   { src: '../portfolio/img/d.png', categories: ['all'], title: 'DFW MACC', description: 'Developed a dynamic website for DFWMACC, a non-profit Chamber of Commerce in Dallas Fort Worth, empowering over 150,000 Muslim entrepreneurs to thrive in North Texas.' },
   { src: '../portfolio/img/a.png', categories: ['all'], title: 'Almari.com', description: 'An ecommerce website made with Wordpress using WooCommerce' },
   { src: '../portfolio/img/cw.png', categories: ['all'], title: 'Cart World', description: 'Another ecommerce website made with Wordpress using WooCommerce.' },
-  { src: '../portfolio/img/fs.png', categories: ['shopify'], title: 'Furniture Source', description: 'Crafted a Shopify website and implemented SEO for Furniture Source, a trusted Dallas-based furniture store since 1980.' },
+  { src: '../portfolio/img/fs.png', categories: ['all'], title: 'Furniture Source', description: 'Crafted a Shopify website and implemented SEO for Furniture Source, a trusted Dallas-based furniture store since 1980.' },
   { src: '../portfolio/img/swha.png', categories: ['all'], title: 'Khana Sab K Liye', description: 'A food delivery and mangement app made for poor and needy peoples using Firebase Firestore and React Native. This was a submission for the Final Hackathon for Saylani Welfare SMIT (InComplete)' },
   { src: '../portfolio/img/wa.png', categories: ['all'], title: 'Whatsapp Clone (UI)', description: 'A Whatsapp Clone App UI made using React Native and React Navigation' },
   { src: '../portfolio/img/rnt.png', categories: ['all'], title: 'Login & Sign Up App', description: 'A Simple Login and SignUp app made with the help of React navigation' },
@@ -26,6 +26,7 @@ const images = [
 
   { src: '../portfolio/img/g.png', categories: ['react'], title: 'React Github Profile Fetching App', description: 'A Github profile fetching app made in ReactJs using Axios and api.github' },
   { src: '../portfolio/img/q.png', categories: ['react'], title: 'React Quiz App', description: 'A Quiz App made with ReactJs using Firebase Firestore and Auth' },
+  { src: '../portfolio/img/rctc.png', categories: ['react'], title: 'React Change Text Case', description: 'A simple text case conversion app built with Vite and React. Easily convert text to lowercase and other format with this lightweight and intuitive web application. Perfect for developers and writers who need a quick tool for transforming text to lowercase and other format' },
   { src: '../portfolio/img/w.png', categories: ['react'], title: 'React Weather App', description: 'A ReactJs Weather App made with the help of Axios and AccuWeather API.' },
 
   { src: '../portfolio/img/wa.png', categories: ['react-native'], title: 'Whatsapp Clone (UI)', description: 'A Whatsapp Clone App UI made using React Native and React Navigation' },
