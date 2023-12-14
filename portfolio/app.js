@@ -6,6 +6,7 @@ const images = [
   { src: '../portfolio/img/g.png', categories: ['all'], title: 'React Github Profile Fetching App', description: 'A Github profile fetching app made in ReactJs using Axios and api.github' },
   { src: '../portfolio/img/q.png', categories: ['all'], title: 'React Quiz App', description: 'A Quiz App made with ReactJs using Firebase Firestore and Auth' },
   { src: '../portfolio/img/w.png', categories: ['all'], title: 'React Weather App', description: 'A ReactJs Weather App made with the help of Axios and AccuWeather API.' },
+  { src: '../portfolio/img/rcm.png', categories: ['all'], title: 'Redux Cart Manager', description: 'Redux Cart Manager for React, a powerful and intuitive solution for managing shopping cart functionality in your React applications. This project leverages the robustness of Redux to efficiently handle state management, ensuring a seamless experience for adding and removing items from the cart.' },
   { src: '../portfolio/img/t.png', categories: ['all'], title: 'Todo List App', description: 'A todo list app using Local Storage' },
   { src: '../portfolio/img/p.png', categories: ['all'], title: 'Portfolio', description: 'A personal portfolio portfolio made using HTML, CSS & JS' },
   { src: '../portfolio/img/c.png', categories: ['all'], title: 'Cyber Odyssey', description: 'A Virtual Start-Up.' },
@@ -28,6 +29,7 @@ const images = [
   { src: '../portfolio/img/q.png', categories: ['react'], title: 'React Quiz App', description: 'A Quiz App made with ReactJs using Firebase Firestore and Auth' },
   { src: '../portfolio/img/rctc.png', categories: ['react'], title: 'React Change Text Case', description: 'A simple text case conversion app built with Vite and React. Easily convert text to lowercase and other format with this lightweight and intuitive web application. Perfect for developers and writers who need a quick tool for transforming text to lowercase and other format' },
   { src: '../portfolio/img/w.png', categories: ['react'], title: 'React Weather App', description: 'A ReactJs Weather App made with the help of Axios and AccuWeather API.' },
+  { src: '../portfolio/img/rcm.png', categories: ['react'], title: 'Redux Cart Manager', description: 'Redux Cart Manager for React, a powerful and intuitive solution for managing shopping cart functionality in your React applications. This project leverages the robustness of Redux to efficiently handle state management, ensuring a seamless experience for adding and removing items from the cart.' },
 
   { src: '../portfolio/img/wa.png', categories: ['react-native'], title: 'Whatsapp Clone (UI)', description: 'A Whatsapp Clone App UI made using React Native and React Navigation' },
   { src: '../portfolio/img/swha.png', categories: ['react-native'], title: 'Khana Sab K Liye', description: 'A food delivery and mangement app made for poor and needy peoples using Firebase Firestore and React Native. This was a submission for the Final Hackathon for Saylani Welfare SMIT (InComplete)' },
