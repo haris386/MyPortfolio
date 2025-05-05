@@ -31,6 +31,8 @@ const images = [
   { src: '../portfolio/img/t.png', categories: ['htmlcssjs'], title: 'Todo List App', description: 'A todo list app using Local Storage' },
   { src: '../portfolio/img/p.png', categories: ['htmlcssjs'], title: 'Portfolio', description: 'A personal portfolio portfolio made using HTML, CSS & JS' },
   
+  { src: '../portfolio/img/tha.png', categories: ['react'], title: 'Techkluster Hire App', description: 'Built Hire App for employers to onboard seamlessly, create jobs, launch skill based assessments, and invite thousands of global candidates for job matching and interviews, all with detailed dashboards.' },
+  { src: '../portfolio/img/tcp.png', categories: ['react'], title: 'Techkluster Candidate Portal', description: 'Developed Candidate Portal, enabling seamless AI-powered on-boarding for technologists, skill assessments with certifications, and job matching, serving thousands of global users.' },
   { src: '../portfolio/img/g.png', categories: ['react'], title: 'React Github Profile Fetching App', description: 'A Github profile fetching app made in ReactJs using Axios and api.github' },
   { src: '../portfolio/img/q.png', categories: ['react'], title: 'React Quiz App', description: 'A Quiz App made with ReactJs using Firebase Firestore and Auth' },
   { src: '../portfolio/img/rctc.png', categories: ['react'], title: 'React Change Text Case', description: 'A simple text case conversion app built with Vite and React. Easily convert text to lowercase and other format with this lightweight and intuitive web application. Perfect for developers and writers who need a quick tool for transforming text to lowercase and other format' },
@@ -41,9 +43,9 @@ const images = [
   { src: '../portfolio/img/swha.png', categories: ['react-native'], title: 'Khana Sab K Liye', description: 'A food delivery and mangement app made for poor and needy peoples using Firebase Firestore and React Native. This was a submission for the Final Hackathon for Saylani Welfare SMIT (InComplete)' },
   { src: '../portfolio/img/rnt.png', categories: ['react-native'], title: 'Login & Sign Up App', description: 'A Simple Login and SignUp app made with the help of React navigation' },
   
+  { src: '../portfolio/img/d.png', categories: ['wordpress'], title: 'DFW MACC', description: 'Developed a dynamic website for DFWMACC, a non-profit Chamber of Commerce in Dallas Fort Worth, empowering over 150,000 Muslim entrepreneurs to thrive in North Texas.' },
   { src: '../portfolio/img/c.png', categories: ['wordpress'], title: 'Cyber Odyssey', description: 'A Virtual Start-Up.' },
   { src: '../portfolio/img/mm.png', categories: ['wordpress'], title: 'Makkah Masjid', description: 'Developed a impactful website for Makkah Masjid, a non-profit Islamic organization in Garland, TX,' },
-  { src: '../portfolio/img/d.png', categories: ['wordpress'], title: 'DFW MACC', description: 'Developed a dynamic website for DFWMACC, a non-profit Chamber of Commerce in Dallas Fort Worth, empowering over 150,000 Muslim entrepreneurs to thrive in North Texas.' },
   { src: '../portfolio/img/pj.png', categories: ['wordpress'], title: 'Commercial Industrial Roofing and Asphalt Services', description: 'Developed a dynamic roofing website for one of the best roofer in Philadelphia and New Jersey' },
   { src: '../portfolio/img/awd.png', categories: ['wordpress'], title: 'Aether Web Services', description: 'Developed a website for Web Development Agency' },
   { src: '../portfolio/img/nch.png', categories: ['wordpress'], title: 'Niazcoholdings', description: 'Developed a digital marketing website for services provider in the domain of Amazon, Shopify, Facebook, Etsy and etc.' },
@@ -52,6 +54,8 @@ const images = [
   { src: '../portfolio/img/meg.png', categories: ['wordpress'], title: 'My Ecommerce Gallery', description: 'Developed a optimization and promotion services providers website who provides services in many domains including Amazon, Etsy and many more.' },
   { src: '../portfolio/img/a.png', categories: ['wordpress'], title: 'Almari.com', description: 'An ecommerce website made with Wordpress using WooCommerce' },
   { src: '../portfolio/img/cw.png', categories: ['wordpress'], title: 'Cart World', description: 'Another ecommerce website made with Wordpress using WooCommerce.' },
+  
+  { src: '../portfolio/img/xlpro.png', categories: ['wix'], title: 'Xl Pro Staffing & Consulting', description: 'Developed a professional staffing and consulting website on Wix for XL Pro, a leading workforce solutions provider serving multiple industries across the U.S. The platform highlights their recruiting expertise, service offerings, and commitment to connecting skilled professionals with top employers.' },
   
   { src: '../portfolio/img/fs.png', categories: ['shopify'], title: 'Furniture Source', description: 'Crafted a Shopify website and implemented SEO for Furniture Source, a trusted Dallas-based furniture store since 1980.' },
 ];
