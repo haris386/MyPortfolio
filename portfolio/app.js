@@ -29,28 +29,28 @@ const images = [
     categories: ["all"],
     title: "Sparx Solar",
     description:
-      "Sparx Solar helps homeowners switch to clean, reliable energy with high-quality solar installations, transparent pricing, and a seamless end-to-end process. It focuses on maximizing energy savings, enhancing home value, and delivering future-ready solar solutions with trust and simplicity.",
+      "Sparx Solar made using NextJs helps homeowners switch to clean, reliable energy with high-quality solar installations, transparent pricing, and a seamless end-to-end process. It focuses on maximizing energy savings, enhancing home value, and delivering future-ready solar solutions with trust and simplicity.",
   },
   {
     src: "../portfolio/img/guardianride.png",
     categories: ["all"],
     title: "GuardianRide",
     description:
-      "GuardianRide is a smart student transportation platform that ensures safety through real-time tracking, route control, and live communication. It connects parents, drivers, and schools with powerful tools for full visibility, control, and secure ride management.",
+      "GuardianRide made using NextJs is a smart student transportation platform that ensures safety through real-time tracking, route control, and live communication. It connects parents, drivers, and schools with powerful tools for full visibility, control, and secure ride management.",
   },
   {
     src: "../portfolio/img/nexgpayment.png",
     categories: ["all"],
     title: "NextGPayment",
     description:
-      "NextGenPayments offers reliable, cost-effective payment processing solutions with customized plans, multiple pricing options, and advanced payment technologies. It helps businesses reduce fees, optimize transactions, and choose the best setup tailored to their needs.",
+      "NextGenPayments made using NextJs offers reliable, cost-effective payment processing solutions with customized plans, multiple pricing options, and advanced payment technologies. It helps businesses reduce fees, optimize transactions, and choose the best setup tailored to their needs.",
   },
   {
     src: "../portfolio/img/claimcore.png",
     categories: ["all"],
     title: "ClaimCore",
     description:
-      "ClaimCore is an all-in-one CRM for insurance adjusters to manage claims, inspections, and reports efficiently. It uses smart automation and guided workflows to save time, improve accuracy, and keep everything organized.",
+      "ClaimCore made using NextJs is an all-in-one CRM for insurance adjusters to manage claims, inspections, and reports efficiently. It uses smart automation and guided workflows to save time, improve accuracy, and keep everything organized.",
   },
   {
     src: "../portfolio/img/sparxtech.png",
