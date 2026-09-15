@@ -33,6 +33,27 @@ const images = [
       "Sparx Solar made using NextJs helps homeowners switch to clean, reliable energy with high-quality solar installations, transparent pricing, and a seamless end-to-end process. It focuses on maximizing energy savings, enhancing home value, and delivering future-ready solar solutions with trust and simplicity.",
   },
   {
+    src: "./img/eagleonerestoration.png",
+    categories: ["all"],
+    title: "Eagle One Restoration",
+    description:
+      "Developed a professional restoration and home improvement website using Next.js for Eagle One Restoration, featuring water and flood damage restoration, fire and smoke cleanup, mold remediation, air duct cleaning, and HVAC services. The website provides a responsive user experience, clear service navigation, and convenient consultation requests for customers across Illinois.",
+  },
+  {
+    src: "./img/fastlinkleads.png",
+    categories: ["all"],
+    title: "FastLink Leads",
+    description:
+      "Built a modern lead generation and appointment booking website using Next.js for FastLink Leads, offering exclusive leads and verified appointments for construction and insurance businesses. The platform features service offerings, industry-focused content, appointment packages, responsive design, and a secure checkout experience with Stripe payments.",
+  },
+  {
+    src: "./img/sparxsolarexteriors.png",
+    categories: ["all"],
+    title: "Sparx Exteriors",
+    description:
+      "Developed a responsive home improvement website using Next.js for Sparx Exteriors, showcasing professional roofing, windows, siding, and solar solutions. The website features service-focused landing pages, energy efficiency content, project showcases, financing options, and an easy-to-use estimate request experience.",
+  },
+  {
     src: "./img/guardianride.png",
     categories: ["all"],
     title: "GuardianRide",
@@ -244,6 +265,27 @@ const images = [
     title: "AccuraCore",
     description:
       "AccuraCore made using NextJs is an all-in-one business management platform that unifies workflows, financial automation, and team collaboration under a single dashboard. It offers customizable processes, smart reporting, and complete operational control for growing enterprises.",
+  },
+    {
+    src: "./img/eagleonerestoration.png",
+    categories: ["react"],
+    title: "Eagle One Restoration",
+    description:
+      "Developed a professional restoration and home improvement website using Next.js for Eagle One Restoration, featuring water and flood damage restoration, fire and smoke cleanup, mold remediation, air duct cleaning, and HVAC services. The website provides a responsive user experience, clear service navigation, and convenient consultation requests for customers across Illinois.",
+  },
+  {
+    src: "./img/fastlinkleads.png",
+    categories: ["react"],
+    title: "FastLink Leads",
+    description:
+      "Built a modern lead generation and appointment booking website using Next.js for FastLink Leads, offering exclusive leads and verified appointments for construction and insurance businesses. The platform features service offerings, industry-focused content, appointment packages, responsive design, and a secure checkout experience with Stripe payments.",
+  },
+  {
+    src: "./img/sparxsolarexteriors.png",
+    categories: ["react"],
+    title: "Sparx Exteriors",
+    description:
+      "Developed a responsive home improvement website using Next.js for Sparx Exteriors, showcasing professional roofing, windows, siding, and solar solutions. The website features service-focused landing pages, energy efficiency content, project showcases, financing options, and an easy-to-use estimate request experience.",
   },
   {
     src: "./img/sparxsolar.png",
